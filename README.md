@@ -5,7 +5,7 @@ One of the major challenges in combating global human trafficking is the availab
 
 
 
-# 1. Country in which LoveJustice Work
+# 1. Countries in which LoveJustice Work
 country_list=[" ","Nepal", "India", "Bangladesh", "South Africa",
               "Zimbabwe", "Malawi", "Kenya", "Uganda", "Benin", 
               "Tanzania"," Sierra Leone", "Ghana",
